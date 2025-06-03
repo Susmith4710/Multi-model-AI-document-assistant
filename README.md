@@ -13,10 +13,6 @@ A powerful RAG (Retrieval-Augmented Generation) application that allows you to c
 ## Setup
 
 1. Clone the repository:
-```bash
-git clone <your-repository-url>
-cd <repository-name>
-```
 
 2. Create a virtual environment:
 ```bash
